@@ -1,0 +1,36 @@
+{
+    "lang": "en",
+    "siteTitle": "Bhuwan’s Hub",
+    "siteDescription": "Insights, tips, and tutorials on programming, software engineering, clean code, microservices, best practices, machine learning, generative ai and cloud-native patterns",
+    "siteLogoUrl": "/assets/B.png",
+    "author": "Bhuwan Prasad Upadhyay",
+    "faviconUrl": "/favicon.png",
+    "ogImageUrl": "",
+    "customLinks": [],
+    "blogTitle": "Blog Posts",
+    "blogSlug": "posts",
+    "displayTagsListLink": true,
+    "tocEnabled": true,
+    "tocHtmlTags": [
+        "h1",
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "h6"
+    ],
+    "tocMinTags": 1,
+    "htmlBasePathPrefix": "",
+    "hljsLanguages": [
+        "xml",
+        "javascript",
+        "java",
+        "json",
+        "yaml",
+        "liquid",
+        "markdown",
+        "css"
+    ],
+    "roundedImagesCorners": true,
+    "editThisPageRootUrl": "https://github.com/bupadhyay0910/bupadhyay.dev/blob/main"
+}
